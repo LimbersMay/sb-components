@@ -11,6 +11,7 @@
 # production
 /build
 /storybook-status
+*.log
 
 # misc
 .DS_Store
