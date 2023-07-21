@@ -10,6 +10,7 @@
 
 # production
 /build
+/storybook-status
 
 # misc
 .DS_Store
